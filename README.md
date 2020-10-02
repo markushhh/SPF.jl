@@ -1,7 +1,5 @@
 # SPF
 
-!["logo"](docs/src/assets/logo.png)
-
 `SPF.jl` offers the possibility to download data from the [Survey of
 Professional
 Forecasters](https://www.philadelphiafed.org/research-and-data/real-time-center/survey-of-professional-forecasters/data-files)
