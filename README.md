@@ -30,3 +30,13 @@ get_dispersion(survey) # saves the file since there's multiple sheets in the exc
 get_microdata() # saves the file since there's multiple sheets in the excel file
 get_prob() # saves the file since there's multiple sheets in the excel file
 ```
+
+The
+[documentation](https://www.philadelphiafed.org/-/media/research-and-data/real-time-center/survey-of-professional-forecasters/spf-documentation.pdf?la=en)
+is really helpful.
+
+Disclaimer
+----------
+
+This package is in no way officially related to, or endorsed by, the
+Federal Reserve Bank of Philadelphia nor the European Central Bank.
