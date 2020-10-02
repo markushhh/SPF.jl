@@ -1,4 +1,4 @@
-# SPF
+# SPF.jl
 
 `SPF.jl` offers the possibility to download data from the [Survey of
 Professional
